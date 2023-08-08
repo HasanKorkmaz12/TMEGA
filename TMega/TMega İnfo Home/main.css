@@ -1,0 +1,206 @@
+.boldy
+{
+    background-color: rgb(65, 65, 65);
+}
+.fgemunu{
+    font-family: "Gemunu Libre", sans-serif !important;
+}
+.fontwel
+{
+    font-weight: 700 !important;
+}
+.ftext6
+{
+    font-size: 3.75rem !important;
+    line-height: 1 !important;
+}
+.tmega-grey {
+    color: #DDDDDD !important;
+}
+.tmega-red {
+    color: #BC1A45 !important;
+}
+.tmega-melon {
+    color: #FFD369 !important;
+}
+.tmega-white {
+    color: #F7F7F7 !important;
+}
+.arkpak
+{
+    background-color: black !important;
+}
+.singera
+{
+    list-style-type:none ;
+    text-decoration: none;
+}
+.btng
+{
+    border: 0px;
+    background-color: #BC1A45;
+    cursor: pointer;
+    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 500ms;
+    white-space: nowrap;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    color: #DDDDDD;
+}
+.btng:hover
+{
+    --tw-bg-opacity: 1;
+    background-color: rgb(225 29 72 / var(--tw-bg-opacity));
+}
+.orta
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.orta1
+{
+    display: flex;
+    align-items: center;
+    height: 35px;
+}
+.bord1
+{
+    background-color: #DDDDDD;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.bord2
+{
+    background-color: #BC1A45;
+    width: 100px;
+    height: 100px;
+    border-radius: 25%;
+}
+.bord3
+{
+    background-color: #BC1A45;
+    cursor: pointer;
+    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 500ms;
+    white-space: nowrap;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    color: #DDDDDD;
+    border-radius: 6%;
+}
+.bgrig
+{
+    background-color: #666666;
+}
+.bgrig1
+{
+    background-color: #BC1A45;
+}
+.reg
+{
+    color:black;
+    text-decoration: none;
+}
+.border1
+{
+    border-radius: 15px;
+}
+.son
+{
+    display: flex !important;
+    justify-content: end !important;
+}
+.logregpa
+{
+    height: 80vh;
+}
+.logregpa1
+{
+    height: 90vh;
+}
+@media screen and (max-width: 992px) {
+    .navic
+    {
+        display: block !important;
+    }
+    .navnic
+    {
+        display: none !important;
+    }
+    .ortam
+    {
+        padding-top: 15px;
+    }
+    .ksm {
+        order:1 !important;
+    }
+    .ksm1
+    {
+        order: 2 !important;
+    }
+    .mag
+    {
+        margin-top: 20px !important;
+    }
+}
+@media screen and (max-width: 576px) {
+    .orta2 {
+      text-align: center;
+    }
+    .infoicon {
+        width: 100px;
+    }
+    .ortamtext
+    {
+        position: relative;
+        left: -115px;
+    }
+  }
+  @media screen and (max-width: 504px) {
+    .ortamtext
+    {
+        position: relative;
+        left: -100px;
+    }
+  }
+  @media screen and (max-width: 470px) {
+    .ortamtext
+    {
+        position: relative;
+        left: -90px;
+    }
+  }
+  @media screen and (max-width: 444px) {
+    .ortamtext
+    {
+        position: relative;
+        left: -80px;
+    }
+  }
+  @media screen and (max-width: 426px) {
+    .ortamtext
+    {
+        position: relative;
+        left: -70px;
+    }
+  }
+  @media screen and (max-width: 422px) {
+    .ortamtext
+    {
+        position: relative;
+        left: -60px;
+    }
+  }
+  @media screen and (max-width: 394px) {
+    .ortamtext
+    {
+        position: relative;
+        left: -50px;
+    }
+  }
+  
+  
